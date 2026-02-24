@@ -1,3 +1,12 @@
+## 1.4.0 (2026-02-24)
+
+### Features
+- updating schema to support strict versioning ([`8824c05`](https://github.com/open-rpc/spec/commit/8824c05))
+
+### Fixes
+
+- NOP
+
 ## [1.3.2](https://github.com/open-rpc/spec/compare/1.3.1...1.3.2) (2023-07-04)
 
 
@@ -13,7 +22,7 @@
 * add a note about examplePairingObject.result being undefined ([30aee1b](https://github.com/open-rpc/spec/commit/30aee1b5186d623f197b4f31cb6152bc0bbd23c0))
 * tests borked up ([5f73e6e](https://github.com/open-rpc/spec/commit/5f73e6e157b01b17a7790050c886e70957b4646a))
 
-# [1.3.0](https://github.com/open-rpc/spec/compare/1.2.6...1.3.0) (2023-02-01)
+## [1.3.0](https://github.com/open-rpc/spec/compare/1.2.6...1.3.0) (2023-02-01)
 
 
 ### Bug Fixes
@@ -96,7 +105,7 @@
 
 * add "either" option for param structure ([947c12b](https://github.com/open-rpc/spec/commit/947c12b)), closes [#190](https://github.com/open-rpc/spec/issues/190) [#226](https://github.com/open-rpc/spec/issues/226)
 
-# [1.2.0](https://github.com/open-rpc/spec/compare/1.1.12...1.2.0) (2019-09-23)
+## [1.2.0](https://github.com/open-rpc/spec/compare/1.1.12...1.2.0) (2019-09-23)
 
 
 ### Bug Fixes
@@ -207,7 +216,7 @@
 * **release:** indicate commit messages generated ([8c34567](https://github.com/open-rpc/spec/commit/8c34567))
 * **releaserc:** tighten commit message sign off ([b06a454](https://github.com/open-rpc/spec/commit/b06a454))
 
-# [1.1.0](https://github.com/open-rpc/spec/compare/1.0.0...1.1.0) (2019-04-07)
+## [1.1.0](https://github.com/open-rpc/spec/compare/1.0.0...1.1.0) (2019-04-07)
 
 
 ### Bug Fixes
@@ -219,7 +228,8 @@
 
 * add link for latest version of spec ([ce8ecf0](https://github.com/open-rpc/spec/commit/ce8ecf0))
 
-# 1.0.0 (2019-04-01)
+
+## 1.0.0 (2019-04-01)
 
 
 ### Bug Fixes
