@@ -1,3 +1,9 @@
+## 1.4.1 (2026-02-25)
+
+### Fixes
+
+- the pattern for the 1.4 regex ([`e51ee78`](https://github.com/open-rpc/spec/commit/e51ee78))
+
 ## 1.4.0 (2026-02-24)
 
 ### Features
