@@ -85,6 +85,5 @@ pkg.exports = {
 
 pkg.files = ["dist"];
 
-writeFileSync(pkgPath, JSON.stringify(pkg, null, 2) + "\n");
-// eslint-disable-next-line no-console
+writeFileSync(pkgPath, JSON.stringify(pkg, null, 2));
 console.log("Updated package.json exports with schema paths");
